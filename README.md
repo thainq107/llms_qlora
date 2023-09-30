@@ -9,9 +9,8 @@
   ```
 ## Dataset
   [carblacac/twitter-sentiment-analysis](https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis)
-
-## LoRA (Low-Rank Adaptation)
-### Training
+  
+## Training
   ```
     python run_qlora.py \
         --dataset_name carblacac/twitter-sentiment-analysis \
